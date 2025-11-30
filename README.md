@@ -2,11 +2,11 @@
 ---
 ##This project uses **K-Means clustering** to classify different types of student lifestyles based on daily habits and academic indicators.␣␣
 
-👉 **Live Demo（right now it is in Chinese version)**  ␣␣
-Here is the link for experiencing
-https://genesisthebeginning.streamlit.app/
+👉 **Live Demo（right now it is in Chinese version)**<br>
+Here is the link for experiencing<br>
+https://genesisthebeginning.streamlit.app/<br>
 ---
-##The technology that I used:
+##The technology that I used:<br>
 - Python
 - Streamlit
 - scikit-learn（KMeans, StandardScaler）
