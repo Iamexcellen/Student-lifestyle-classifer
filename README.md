@@ -1,6 +1,6 @@
-<h1>**Student Lifestyle Clustering App**</h1>
+<h1>**‘Student Lifestyle Clustering App’**</h1>
 ---
-##This project uses **K-Means clustering** to classify different types of student lifestyles based on daily habits and academic indicators.␣␣
+##This project uses **K-Means clustering** to classify different types of student lifestyles based on daily habits and academic indicators.<br>
 
 👉 **Live Demo（right now it is in Chinese version)**<br>
 Here is the link for experiencing<br>
